@@ -1,6 +1,9 @@
 # ONIMUSIC - MORADA
 Criação de tela para processo de avaliação na empresa Onimusic
 
+![image](https://user-images.githubusercontent.com/91166507/211622397-a53af280-b9d6-4ffc-a07e-62bb6918c067.png)
+
+
 ## Introdução
 Execução de um projeto de criação de tela parecida com uma playlist musical para processo de avaliação de vaga de estagiário em desenvolvimento na empres Onimusic.
 
