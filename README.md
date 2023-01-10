@@ -1,4 +1,4 @@
-### onidevs-view
+# onidevs-view
 Criação de tela para processo de avaliação na empresa Onimusic
 
 ## Introdução
@@ -14,10 +14,10 @@ Segue o passo a passo para visualizar a criação da tela:
 5. Ainda no terminal, executar o comando npm install;
 6. Automaticamente a tela será aberta em seu navegador padrão.
 
-## Processo de criação
+# Processo de criação
 A tela foi criada utilizando, de forma majoritária, a biblioteca React. Deste modo, foram importados diversos ícones presentes na biblioteca react-icons para configuração e desing de toda a tela. A estrutura montada está bem dividida, sendo que possuem pastas para imagens, componentes e layouts, além do folder inicial.
 
-# Tecnologias utilizadas
+## Tecnologias utilizadas
 * React
 * Visual Studio
 * HTML
