@@ -26,5 +26,8 @@ A tela foi criada utilizando, de forma majoritária, a biblioteca React. Deste m
 * HTML
 * CSS
 
+# Autor
+Matheus Fontes Almeida Moreira Silva, estudante do 4° período de Engenharia de Software na Pontíficia Universidade Católica de Minas Gerais
+
 ## Conclusão
 Para finalização, concluo que foi um desafio que me motivou bastante e, sobretudo, foi um grande mecanismo de conhecimento e aprendizagem. Espero que tenha atendido a todos os requisitos e que ocorram mais oportunidades para que eu possa demonstrar a minha experiência, coadunando com o aprendizado que eu posso adquirir em conjunto com a empresa.
