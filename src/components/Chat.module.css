@@ -1,0 +1,94 @@
+.body{
+    height: 90vh;
+    width: 35vh;
+    background-color: rgb(30, 29, 29);
+    border-radius: 10px;
+    margin: -810px 100px 480px 1220px;
+    padding: 5;
+    padding-top: 10px;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center; 
+}
+
+.message{
+    background-color: rgb(35, 35, 35);
+    padding: 5px;
+    color: white;
+    width: fit-content;
+    border-radius: 10px;
+    font-size: smaller;
+    margin-bottom: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    
+}
+
+.header{
+    color: white;
+    margin-left: 15px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    font-size: small;
+}
+
+.input{
+    border-radius: 6px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(35, 35, 35);
+    margin-left: 15px;
+    width: 230px;
+    padding: 5px;
+    color: rgba(245, 245, 220, 0.21);
+}
+
+.userFirst{
+    margin-bottom:-15px;
+    color: black;
+}
+
+.user2{
+    margin-bottom: -15px;
+    color: aquamarine
+}
+
+.user1{
+    margin-bottom: -15px;
+    color: rgb(231, 231, 170);
+}
+
+.span{
+    position: relative;
+    margin-left: -30px;
+    
+    color: white;
+    
+}
+.span::before{
+    content: '';
+    margin-top: 10px;
+}
+
+.span:hover{
+    cursor:pointer;
+}
+
+.iconInput{
+    color:white;
+    margin-left: 215px;
+    margin-top: -20px;
+}
+
+@media screen and (max-width:400px) {
+    .body{
+        display: none;
+    }
+}
+
+@media screen and (max-width:1200px) {
+    .body{
+        display: none;
+    }
+}

@@ -1,0 +1,173 @@
+.ul{
+    background-color: rgb(30, 29, 29);
+    display: flex;
+    list-style: none;
+    padding: 8px;
+}
+
+.img{
+    width: 50px;
+    text-align: left;
+    margin-left: 3.5em;
+    margin-bottom: 0.5em;
+    margin-top: 0.9em;
+}
+
+.txtFooter{
+    margin-left: 0.8em;
+    margin-top: 2.3em;
+    margin-bottom:2.3em;
+    color: #efefef;
+    font-size: small;
+}
+
+.iconSkipBack{
+    color: #efefef;
+    margin-top: 1.9em;
+    margin-bottom: 1.9em;
+    margin-left: 330px;
+    cursor: pointer;
+}
+
+.iconSkipBack:hover{
+    color: #605c5c;
+    transition: 0.3s ease-in-out;
+}
+
+.iconPause{
+    color: #efefef;
+    margin-top: 1.95em;
+    margin-bottom: 1.9em;
+    margin-left: 20px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.iconPause:hover{
+    color: #605c5c;
+    transition: 0.3s ease-in-out;
+}
+
+.iconSkipForward{
+    color: #efefef;
+    margin-top: 1.9em;
+    margin-bottom: 1.9em;
+    margin-left: 20px;
+    cursor: pointer;
+
+}
+
+.iconSkipForward:hover{
+    color: #605c5c;
+    transition: 0.3s ease-in-out;
+}
+
+.iconRepeat{
+    color: #efefef;
+    margin-top: 1.9em;
+    margin-bottom: 1.9em;
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.iconRepeat:hover{
+    color: #605c5c;
+    transition: 0.3s ease-in-out;
+}
+
+.iconRandom{
+    color: #efefef;
+    margin-top: 1.9em;
+    margin-bottom: 1.9em;
+    cursor: pointer;
+    margin-left: 15px;
+
+}
+
+.iconRandom:hover{
+    color: #605c5c;
+    transition: 0.3s ease-in-out;
+}
+
+.iconSound{
+    color: #efefef;
+    margin-top: 1.9em;
+    margin-bottom: 1.9em;
+    cursor: pointer;
+    margin-left: 560px;
+}
+
+.iconSound:hover{
+    color: #605c5c;
+    transition: 0.3s ease-in-out;
+
+}
+
+.buttonFooter{
+    background-color: rgb(30, 29, 29);
+    color: #efefef;
+    margin-top: 1.95em;
+    margin-bottom: 1.9em;
+    margin-left: 20px;
+    cursor: pointer;
+    
+
+}
+
+.buttonFooter:hover{
+    color: #605c5c;
+    transition: 0.3s ease-in-out;
+}
+
+
+.buttonFooterDois{
+    background-color: rgb(30, 29, 29);
+    color: #efefef;
+    margin-top: 1.95em;
+    margin-bottom: 1.9em;
+    margin-left: 20px;
+    cursor: pointer;
+    display:none;
+}
+
+.buttonFooterDois:hover{
+    color: #605c5c;
+    transition: 0.3s ease-in-out;
+}
+
+@media  screen and (max-width:400px) {
+
+
+    .img{
+        width: 100px;
+        height: 50px;
+        margin-top: 35px;
+        margin-left: 30px;
+
+    }
+
+    .txtFooter{
+        min-width: 25ch;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        margin-top: 50px;
+    }
+
+    .iconSkipBack{
+        margin-left: 5px;
+    }
+
+    
+}
+
+@media  screen and (max-width:1200px) {
+    .img{
+        width: 50px;
+    }
+    .txtFooter{
+        
+        white-space: nowrap;
+        margin-top: 40px;
+    }
+} 
